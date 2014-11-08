@@ -2,6 +2,3 @@
 void main()
 {
 }
-void intf()
-{
-}
