@@ -70,3 +70,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.lst
+output/project
+*.lnp
+*.plg
+*.m51
+*.uvopt
+*.bak
